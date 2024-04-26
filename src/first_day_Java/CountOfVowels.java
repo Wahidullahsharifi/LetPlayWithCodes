@@ -5,7 +5,7 @@ public class CountOfVowels {
 		
 	
 	
-	String word="Faridiaabbiee";
+	String word="FaridKhan Sharifi iaabbiee";
 	
 	char [] c=word.toCharArray();
 	
